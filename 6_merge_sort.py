@@ -4,17 +4,11 @@
 @file:6_merge_sort.py
 @time:2018/3/1218:17
 """
-# -*- coding:utf-8 -*-
-"""
-@author:zzh
-@file:6_merge_sort.py
-@time:2018/3/915:19
-"""
 
 
 def merge_sort(alist):
     """
-    冒泡排序
+    归并排序
         最优时间复杂度：O(nlogn)
         最坏时间复杂度：O(nlogn)
         稳定性：稳定
